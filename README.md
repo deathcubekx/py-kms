@@ -1,2 +1,2 @@
 # py-kms-docker
-Py-KMS Key Management Service emulator docker
+Py-KMS Python-based Key Management Service emulator docker
